@@ -89,9 +89,6 @@ Refer to the documentation of these platforms for specific deployment instructio
 
 If you'd like to contribute to this project, feel free to open issues or submit pull requests.
 
-## License
-
-[Your License (e.g., MIT License)](LICENSE) - Add a `LICENSE` file to your repository with the appropriate license.
 
 ## Acknowledgements
 
